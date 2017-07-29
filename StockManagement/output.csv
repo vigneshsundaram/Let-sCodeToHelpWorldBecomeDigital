@@ -1,0 +1,8 @@
+Stock Id,Side,Company,Quantity1,Buy,ABC,10,0,Closed
+2,Sell,XYZ,15,0,Closed
+3,Sell,ABC,13,3,Opened
+4,Buy,XYZ,10,0,Closed
+5,Buy,XYZ,8,3,Opened
+6,buy,xyz,8,0,Closed
+7,Sell,xyz,14,3,Opened
+8,buy,xyz,5,2,Opened
